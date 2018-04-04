@@ -11,8 +11,7 @@
 5. [Exception錯誤處理]()
 6. [Restful設計]()
 7. [Test]()
-8. [Thymeleaf]()
-9. [Security]()
-10. [AWS]()
+8. [Security]()
+9. [AWS]()
 
 若有不足或是建議的地方，歡迎指教
