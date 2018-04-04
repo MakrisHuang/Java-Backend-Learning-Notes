@@ -14,4 +14,21 @@
 8. [Security]()
 9. [AWS]()
 
+另外有一些開發心得：
+
+1. Debug: 從Exception Log去找
+2. 先開發後端再開發前端
+3. WEB開發流程
+	1. URL網域規劃
+	2. 畫Activity Flow Chart定義流程
+	3. 寫API
+	4. 列出User Case，並列舉出使用物件
+	5. 根據物件，設計SQL Schema
+	6. 架設後端環境，選定``Bean``
+	7. 規劃模組：開發``@Repository``並導入到``@Service``
+	8. ``JUnit``測試模組
+	9. 撰寫Controller並測試之
+	10. 整合，並加入Security
+	11. 產品QA，上線
+
 若有不足或是建議的地方，歡迎指教
