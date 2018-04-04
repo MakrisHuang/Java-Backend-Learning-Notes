@@ -14,4 +14,11 @@
 	* ``@RunWith(SpringRunner.class)``
 	* ``@SpringBootTest(classes = ApplicationConfiguration.class) //自定義配置類``
 
-	
+### Spring Boot 搭配 MyBatis的正確依賴
+```
+spring-boot-starter-web
+spring-boot-starter-test
+mybatis-spring-boot-starter 1.2.0
+mysql-connector-java 5.1.39
+```
+另外注意到``Application``類要啟動時一定要放在某個package下，不可在根目錄啟動，會報錯
