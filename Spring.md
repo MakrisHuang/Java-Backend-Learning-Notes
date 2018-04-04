@@ -1,4 +1,4 @@
-#Spring Configuration
+# Spring Configuration
 
 這份文件記錄配置Spring時常遇到的問題還有觀念解析
 
