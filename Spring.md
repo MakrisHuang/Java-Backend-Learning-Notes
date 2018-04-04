@@ -1,4 +1,4 @@
-# Spring Configuration
+# Spring
 
 這份文件記錄配置Spring時常遇到的問題還有觀念解析
 
@@ -39,3 +39,12 @@ Annotation  | Meaning
 1. 範圍：Singleton / Prototype / Global
 2. 如何使用？在 @Service等高層次上使用 ``@Inject``注入Bean
 3. Spring Bean可自定義生命週期中每個函數的功能（ex. 初始化或是銷毀該做什麼）
+
+## Spring Configuration
+這區塊記錄一些常見的小錯誤
+
+* ``@ComponentScan``要放在Config.class
+* 可以用``AnnotationConfigWebApplicationContext``來註冊Config.class
+* **避免Conflict的方式：先檢查 Exception錯誤來源，之後換掉套件版本**
+* ``Servlet``生命週期可作為判斷錯誤的來源
+* 要載入外部變數時太慢：可讓Config.class實現``EnvironmentAware``接口，之後可用``Env.getProperty("name")``取得環境變數
