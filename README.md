@@ -9,7 +9,7 @@
 3. [Tomcat]()
 4. [Database - MyBatis, Redis, EhCache]()
 5. [Exception錯誤處理]()
-6. [Restful]()
+6. [Restful設計]()
 7. [Test]()
 8. [Security]()
 9. [AWS]()
