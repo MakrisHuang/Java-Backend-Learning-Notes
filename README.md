@@ -7,11 +7,7 @@
 1. [Spring Configuration]()
 2. [Spring Boot]()
 3. [Tomcat]()
-4. Database
-	* [MyBatis]()
-	* [JPA]()
-	* [Redis]()
-	* [EhCache]()
+4. [Database - MyBatis, Redis, EhCache]()
 5. [Exception錯誤處理]()
 6. [Restful設計]()
 7. [Test]()
