@@ -4,15 +4,15 @@
 
 而最重要的心得就是：**搞定套件依賴的版本。版本正確，幾乎就成功了！**
 
-1. [Spring Configuration]()
-2. [Spring Boot]()
-3. [Tomcat]()
-4. [Database - MyBatis, Redis, EhCache]()
-5. [Exception錯誤處理]()
-6. [Restful設計]()
-7. [Test]()
-8. [Security]()
-9. [AWS]()
+1. [Spring Configuration](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/Spring.md)
+2. [Spring Boot](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/Spring%20Boot.md)
+3. [Tomcat](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/Tomcat.md)
+4. [Database - MyBatis, Redis, EhCache](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/Database.md)
+5. [Exception錯誤處理](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/Exception.md)
+6. [Restful設計](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/Restful.md)
+7. [Test](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/Test.md)
+8. [Security](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/Security.md)
+9. [AWS](https://github.com/MakrisHuang/Java-Backend-Learning-Notes/blob/master/AWS.md)
 
 另外有一些開發心得：
 
